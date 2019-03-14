@@ -10,6 +10,6 @@ I made no modifications to Martin's network, training it  for 200 epochs. At tha
 * Weight decay
 * Images larger than 384x384
 
-#Conclusion
+# Conclusion
 It's my first time to join kaggle competition,I'm happy with the final standings,I will participate more discussion in next competition.
 
