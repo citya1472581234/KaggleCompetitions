@@ -12,4 +12,5 @@ I made no modifications to Martin's network, training it  for 200 epochs. At tha
 
 # Conclusion
 It's my first time to join kaggle competition,I'm happy with the final standings,I will participate more discussion in next competition.
+![image](https://github.com/citya1472581234/KaggleCompetitions/blob/master/Humpback%20Whale%20Identification/6%25.png?raw=true)
 
